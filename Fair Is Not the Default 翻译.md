@@ -1,4 +1,4 @@
-公平并不是默认的/https://design.google/library/fair-not-default/
+公平并不是默认的/如需查看原文请访问https://design.google/library/fair-not-default/
 作者：Josh Lovejoy
 本文改编自同名TEDx讲座，由作者编辑和修改
 
